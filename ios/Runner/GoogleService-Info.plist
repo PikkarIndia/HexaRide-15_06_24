@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>30301959388-a2gisgdmavk5akrl8qpjgectk7g1aabd.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.30301959388-a2gisgdmavk5akrl8qpjgectk7g1aabd</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDitcBQylVReF_I3Wd5ICstn9OdwZSYUUI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>30301959388</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.sixamtech.hexaride</string>
+	<key>PROJECT_ID</key>
+	<string>hexaride-fbdac</string>
+	<key>STORAGE_BUCKET</key>
+	<string>hexaride-fbdac.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:30301959388:ios:f45b5b1caf21edd1e57019</string>
+</dict>
+</plist>
